@@ -1,2 +1,4 @@
 # stock-analysis
-VBA lesson
+##Overview of Project:
+##Results:
+##Summary:

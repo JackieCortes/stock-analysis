@@ -1,8 +1,8 @@
-# stock-analysis
+# Stock-analysis
 
-##Overview of Project:
+## Overview of Project:
 
-##Results:
+## Results:
 
 Comparing the original code versus the refactored code, we can observe:
 1.	On performance terms:
@@ -18,10 +18,20 @@ On the other hand, each calculation is done and inserted in the spreadsheet with
 |2018|58862.59|2.394531|
 
 **2017 Execution Time**
+
 ![ VBA_Challenge_2017]( https://github.com/JackieCortes/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
 **2018 Execution Time**
+
 ![ VBA_Challenge_2018]( https://github.com/JackieCortes/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
-##Summary:
+## Summary:
+
+Refactoring Code can offer different challenges as per example the following ones:
+  -	Refactoring helps analyze the code to understand the design and meditate on improving or adding actions.
+  -	Time-consuming, depending on whether people are related or not with the routine’s objectives or how it was done, people can spend different amounts of time understanding the script..
+  -	To have a crucial reason for refactoring is essential because there is a risk of breaking the code.
+
+I think for this code was a good idea refactoring as it was improved the execution time and also more comments were added. I understand better the actions when I followed each line to fill the required points.
+

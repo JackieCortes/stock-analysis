@@ -35,3 +35,8 @@ Refactoring Code can offer different challenges as per example the following one
 
 I think for this code was a good idea refactoring as it was improved the execution time and also more comments were added. I understand better the actions when I followed each line to fill the required points.
 
+### Note:
+*If you want to see the codes please consult the following files in the Visual Basic Menu Option:
+
+*Refactored Code "Sub AllStocksAnalysisRefactored()" in module 2 of [VBA_Challenge.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/VBA_Challenge.xlsm)
+Original Code "Sub AllStocksAnalysis()" in module 1 of [green_stocks.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/green_stocks.xlsm)*

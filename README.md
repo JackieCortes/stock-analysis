@@ -38,5 +38,5 @@ I think for this code was a good idea refactoring as it was improved the executi
 ### Note:
 *If you want to see the codes please consult the following files in the Visual Basic Menu Option:
 
-*Refactored Code "Sub AllStocksAnalysisRefactored()" in module 2 of [VBA_Challenge.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/VBA_Challenge.xlsm)
-Original Code "Sub AllStocksAnalysis()" in module 1 of [green_stocks.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/green_stocks.xlsm)*
+*1.Refactored Code "Sub AllStocksAnalysisRefactored()" in module 2 of [VBA_Challenge.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/VBA_Challenge.xlsm)
+2.Original Code "Sub AllStocksAnalysis()" in module 1 of [green_stocks.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/green_stocks.xlsm)*

@@ -1,6 +1,10 @@
 # Stock-analysis
 
 ## Overview of Project:
+Steve has graduated from Finance. His parents are passionate about green energy, and they wanted to be the first Steve's clients to create an investment portfolio. He needed to analyze the stock market to make decisions because his parents did not know about it. 
+
+Steve asked for our support to write a code to review the information. The first code was good, but he wanted to improve the execution time to add thousands of new stocks. The following information was found with the refactored routine.
+
 
 ## Results:
 
@@ -38,5 +42,6 @@ I think for this code was a good idea refactoring as it was improved the executi
 ### Note:
 *If you want to see the codes please consult the following files in the Visual Basic Menu Option:
 
-*1.Refactored Code "Sub AllStocksAnalysisRefactored()" in module 2 of [VBA_Challenge.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/VBA_Challenge.xlsm)
-2.Original Code "Sub AllStocksAnalysis()" in module 1 of [green_stocks.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/green_stocks.xlsm)*
+*1.Refactored Code "Sub AllStocksAnalysisRefactored()" in module 2 of [VBA_Challenge.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/VBA_Challenge.xlsm)*
+
+*2.Original Code "Sub AllStocksAnalysis()" in module 1 of [green_stocks.xlsm](https://github.com/JackieCortes/stock-analysis/blob/main/green_stocks.xlsm)*

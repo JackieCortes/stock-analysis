@@ -1,9 +1,11 @@
 # Stock-analysis
 
 ## Overview of Project:
-Steve has graduated from Finance. His parents are passionate about green energy, and they wanted to be the first Steve's clients to create an investment portfolio. He needed to analyze the stock market to make decisions because his parents did not know about it. 
+Steve has graduated from Finance. His parents are passionate about green energy, and they wanted to be the first Steve's clients to create an investment portfolio. He needed to analyze the stock market to make decisions as part of this task.
 
-Steve asked for our support to write a code to review the information. The first code was good, but he wanted to improve the execution time to add thousands of new stocks. The following information was found with the refactored routine.
+Steve asked for our support to write a code to review the information easily. We helped him and a first code was written. The code was good, but Steve wanted to improve the execution time to add thousands of new stocks. We helped. 
+
+The following information was found with the refactored routine.
 
 
 ## Results:
